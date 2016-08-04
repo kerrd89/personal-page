@@ -1,0 +1,96 @@
+aside {
+  font-family: 'PT Mono', monospace;
+  padding: 10px;
+  position: absolute;
+  top:0; bottom:0; left:0;
+  width:150px;
+  height: auto;
+  background:#4C535D;
+  color: #49D3F2;
+}
+
+aside h1 {
+  font-size: 125%;
+  color: #49D3F2;
+  padding: 10px 0px 10px 0px;
+}
+
+body {
+  font-family: 'PT Mono', monospace;
+}
+
+aside footer {
+  display: inline-block;
+  color:49D3F2;
+  padding: 0px 0px 0px 0px;
+  width: 10px;
+  postion:relative;
+  text-align: center;
+}
+/*how do I get these footer icons evenly distributed accross the bottom
+tried floatinng, different inline elements, text align center*/
+
+/*footer li {
+  display: inline;
+  text-align: center;
+}*/
+
+header {
+  background: #272F38;
+  padding: 10px 0px 10px 180px;
+  color: #F27A5C;
+}
+
+nav {
+}
+
+nav li {
+  display: inline-block;
+  padding: 10px 0px;
+  color:#A9F28D;
+  width: 150px;
+  }
+
+nav li:hover {
+  width: 150px;
+  background: #3F8DA7;
+}
+
+#previewpanel {
+  display: inline-flex;;
+  font-family: 'PT Mono', monospace;
+  padding:0px 0px 0px 0px;
+  margin-left: 160px;
+  outline: 5pt solid magenta;
+}
+
+/*#sidebar {
+  font-family: 'PT Mono', monospace;
+  padding: 10px;
+  position: absolute;
+  top:0; bottom:0; left:0;
+  width:100px;
+  background:#4C535D;
+  F27A5C
+}*/
+
+/*article li {
+  display: inline-block;
+  font-family: 'PT Mono', monospace;
+  padding: 0px 1px 0px 1px;
+  position: relative;
+  top:0; bottom:0; left:170px;
+  width:auto;
+  height:auto;
+  color: #4C535D;
+}*/
+
+/*article lh {
+  font-family: 'PT Mono', monospace;
+  padding: 0px 1px 0px 1px;
+  position: relative;
+  top:0;bottom:0;left:170px;
+  width:auto;
+  height:auto;
+  color:#4C535D;
+}*/
