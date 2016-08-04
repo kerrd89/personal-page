@@ -239,12 +239,6 @@ h4 {
     height: 100%;
   }
 
-  header {
-  }
-
-  header img {
-  }
-
   h3 a {
     font-size: 4vw;
   }
@@ -254,7 +248,7 @@ h4 {
   }
 
   #nav a {
-    font-size: 4vw;
+    font-size: 3.5vw;
     margin: 0px;
     margin-right: 5px;
     margin-left: 5px;
@@ -264,7 +258,7 @@ h4 {
   }
 
   #nav a:hover {
-    font-size: 5vw  ;
+    font-size: 4vw  ;
   }
 
   .article-header {
@@ -287,12 +281,12 @@ h4 {
   }
 
   header {
-    padding: 0px 0px;
+    padding: 0px px;
     margin: 0px;
   }
 
   header a {
-    font-size: 30px;
+    font-size: 6vw;
     width: 100%;
   }
 
